@@ -3,19 +3,19 @@
 <h3 align="center">🚀 Full-Stack Web Developer | 🎓 Electronics & Communication Engineering Student | 🌍 Based in Ethiopia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub!;I+build+scalable+web+apps+with+Nextjs%2C+React%2C+MongoDB;Always+learning.+Always+building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&width=550&lines=Hi+I%27m+Temkin+Abdulmelik!;Full-Stack+Developer+%7C+React+%2F+Next.js+%2F+MongoDB;Problem+Solver+%26+AI+Enthusiast;Building+Clean+%26+Scalable+Web+Apps;Let%27s+Create+Something+Great+Together!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 I’m a 3rd-Year **Electronics & Communication Engineering** student
-- 💻 Passionate **full-stack developer** — building modern, scalable web apps
-- 🌐 Proficient with **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**
-- 🧩 Focused on **clean UI/UX**, **problem-solving**, and **real-world project delivery**
-- 🤖 Curious about **AI and backend systems** – always expanding my skillset
-- ✨ Open to freelance work, internships, and collaboration on meaningful projects
+- 🎓 I’m a 3rd-Year **Electronics & Communication Engineering** student  
+- 💻 Passionate **full-stack developer** — building modern, scalable web apps  
+- 🌐 Skilled in **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**  
+- 🧩 Dedicated to **clean UI/UX**, **problem-solving**, and **real-world project delivery**  
+- 🤖 Enthusiastic about **AI** and constantly learning backend systems  
+- ✨ Open to freelance work, internships, and collaboration on meaningful projects  
 
 ---
 
