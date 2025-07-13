@@ -1,53 +1,64 @@
-<h1 align="center">👋 Hello, I'm Temkin Abdulmelik</h1>
-<h3 align="center">
-🎓 3rd-Year Electronics & Communication Engineering Student  
-💻 Web Developer | Problem Solver | Future AI Specialist  
-🚀 Passionate about building clean, scalable web apps with React, Nextjs, and MongoDB. Always learning. Always building.
-</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there! 👋 I'm Temkin Abdulmelik</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | 🎓 Electronics & Communication Engineering Student | 🌍 Based in Ethiopia</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Web+Developer+%7C+Future+AI+Specialist;Building+with+React,+Nextjs,+MongoDB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub!;I+build+scalable+web+apps+with+Nextjs%2C+React%2C+MongoDB;Always+learning.+Always+building." alt="Typing SVG" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🎓 3rd-year Electronics & Communication Engineering student
-- 💻 Skilled in **React**, **Nextjs**, **MongoDB**, and **Tailwind CSS**
-- 🧠 Passionate about **problem-solving** and learning **AI**
-- 🛠️ Currently learning **backend development** with **Nodejs** and **Prisma**
-- 🌍 Based in Ethiopia | Working remotely to build global solutions
+## 🧠 About Me
+
+- 🎓 I’m a 3rd-Year **Electronics & Communication Engineering** student
+- 💻 Passionate **full-stack developer** — building modern, scalable web apps
+- 🌐 Proficient with **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**
+- 🧩 Focused on **clean UI/UX**, **problem-solving**, and **real-world project delivery**
+- 🤖 Curious about **AI and backend systems** – always expanding my skillset
+- ✨ Open to freelance work, internships, and collaboration on meaningful projects
 
 ---
 
-### 🌐 Connect With Me
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,javascript,tailwind,html,css,mongodb,prisma,figma,git" />
+</div>
+
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
   <a href="https://t.me/temkin23" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo" />
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" />
   </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="30" />
 </div>
 
 ---
 
-### 📊 GitHub Stats & Achievements
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=temkin236&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=temkin236&theme=dracula&no-bg=false&no-frame=false&margin-w=8&margin-h=8" height="150" alt="Trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=dracula&count_private=true&hide_border=false&include_all_commits=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=dracula&langs_count=6&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false&border_radius=10" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=dracula&langs_count=8&hide_border=false&border_radius=10" height="160" />
 </div>
 
 ---
 
-### 🕹️ Contribution Graph
+## 🔥 Contribution Streak & Achievements
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=temkin236&theme=dracula&hide_border=false&border_radius=10" height="150" />
+  <img src="https://github-profile-trophy.vercel.app/?username=temkin236&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8" height="150" />
+</div>
+
+---
+
+## 🕹️ Contribution Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/temkin236/temkin236/output/pacman-contribution-graph-dark.svg">
@@ -57,8 +68,13 @@
 
 ---
 
-### 🧮 Profile Views
+## 🧮 Profile Visitors
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/temkin236/count.svg?" />
 </div>
+
+---
+
+### 💬 *“Turning ideas into code, and code into impact.”*  
+> Feel free to reach out — I'm always open to collaborate, learn, and grow together 🚀
