@@ -58,3 +58,16 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
+
+---
+
+### 📬 Connect With Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/temkin-abdulmelik-195582306/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://t.me/temkin23" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40" style="color:#2CA5E0;"/>
+  </a>
+</p>
