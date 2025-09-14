@@ -18,7 +18,6 @@
 - ✨ Open to freelance work, internships, and collaboration on meaningful projects  
 
 ---
-
 ### 🛠️ Languages & Tools  
 
 <p align="left">
@@ -45,17 +44,17 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TemkinAbdulmelik&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
 </p>  
 
 ### 🔥 Contribution Streak  
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TemkinAbdulmelik&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=temkin236&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>  
 
 ### 🏆 Top Languages  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemkinAbdulmelik&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
