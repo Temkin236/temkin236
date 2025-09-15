@@ -61,14 +61,6 @@
 
 
 
-
-
-### 🏆 Top Languages  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
-</p>  
-
 ---
 
 ### 📬 Connect With Me  
