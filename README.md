@@ -59,6 +59,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+</p>  
+
+### 🔥 Contribution Streak  
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=temkin236&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>  
+
+### 🏆 Top Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
+</p>  
+
 ---
 
 ### 📬 Connect With Me  
@@ -73,11 +91,3 @@
 </p>
 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/temkin-abdulmelik-195582306/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="https://t.me/temkin23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40" style="color:#2CA5E0;"/>
-  </a>
-</p>
