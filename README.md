@@ -59,11 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
-### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-</p>  
 
 
 
