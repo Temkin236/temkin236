@@ -59,6 +59,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
+---
 
 ### 📬 Connect With Me  
 
@@ -70,5 +71,3 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" alt="Telegram" width="40" height="40" style="color:#2CA5E0;"/>
   </a>
 </p>
-
-
