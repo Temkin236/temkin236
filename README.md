@@ -15,7 +15,7 @@
 - 🌐 Skilled in **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**  
 - 🧩 Dedicated to **clean UI/UX**, **problem-solving**, and **real-world project delivery**  
 - 🤖 Enthusiastic about **AI** and constantly learning backend systems  
-- ✨ Open to freelance work, internships, and also collaboration on meaningful projects  
+- ✨ Open to freelance work, internships, and  collaboration on meaningful projects  
 
 ---
 ### 🛠️ Languages & Tool
