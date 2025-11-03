@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hey there! 👋 I'm Temkin Abdulmelik  </h1>
+<h1 align="center">Hey there! 👋 I'm Temkin   </h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 🎓  Engineering Student | 🌍 Based in Ethiopia</h3>
 
 <p align="center">
