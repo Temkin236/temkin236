@@ -10,7 +10,7 @@
 
 ## 🧠 About Me
 
-- 🎓 I’m a 4th-Year **Electronics & Communication Engineering** student  
+  
 - 💻 Passionate **full-stack developer** — building modern, scalable web apps  
 - 🌐 Skilled in **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**  
 - 🧩 Dedicated to **clean UI/UX**, **problem-solving**, and **real-world project delivery**  
