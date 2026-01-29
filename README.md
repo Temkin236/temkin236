@@ -11,7 +11,7 @@
 ## 🧠 About Me
 
   
-- 💻 Passionate **full-stack developer** — building modern, scalable web apps  
+- 💻 Passionate **full-stack developer** building modern, scalable web apps  
 - 🌐 Skilled in **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**  
 - 🧩 Dedicated to **clean UI/UX**, **problem-solving**, and **real-world project delivery**  
 - 🤖 Enthusiastic about **AI** 
