@@ -12,7 +12,7 @@
 
   
 - 💻 Passionate **full-stack developer** building modern, scalable web apps  
-- 🌐 Skilled in **React**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**  
+- 🌐 Skilled in **React**,**vue**, **Nextjs**, **MongoDB**, **Tailwind CSS**, **Nodejs**, and **TypeScript**  
 - 🧩 Dedicated to **clean UI/UX**, **problem-solving**, and **real-world project delivery**  
 - 🤖 Enthusiastic about **AI** 
 - ✨ Open to freelance work, internships, and  collaboration on meaningful projects  
