@@ -44,12 +44,11 @@
 
 ### 🔥 Contribution Streak  
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=temkin236&theme=radical&border_radius=10&date_format=M%20j%5B,%20Y%5D&hide_border=false&cache_seconds=86400" 
-    alt="GitHub Streak"
-  />
-</p>
+<img
+  src="https://streak-stats.demolab.com?user=temkin236&theme=radical&border_radius=10&hide_border=false"
+  alt="GitHub Streak"
+/>
+
 
 
 
