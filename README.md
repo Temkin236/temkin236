@@ -1,45 +1,75 @@
-# Fancy GitHub README
 
-```md
-<!-- Animated / Premium GitHub Profile README -->
-<h1 align="center">✨ Temkin Abdulmelik ✨</h1>
-<h3 align="center">Full-Stack Web Developer • Engineering Student • Ethiopia</h3>
-
+<!-- ====================== PROFILE HEADER ====================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome%20to%20My%20Profile&fontAlign=50&fontAlignY=40&color=0:6a11cb,100:2575fc&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Temkin%20Abdulmelik&fontAlign=50&fontAlignY=38&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<h1 align="center">Hey there! 👋 I'm Temkin</h1>
+<h3 align="center">🚀 Full-Stack Web Developer | 🎓 Engineering Student | 🌍 Based in Ethiopia</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Temkin+Abdulmelik;Building+Modern+Web+Apps;React+%7C+Next.js+%7C+Node.js;Clean+Code+%7C+Scalable+Systems;Open+for+Collaboration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=750&lines=Hi+I'm+Temkin+Abdulmelik!;Full-Stack+Developer+%7C+React+%7C+Next.js+%7C+Node.js;Building+Modern+and+Scalable+Web+Apps;Problem+Solver+%7C+Continuous+Learner;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
-- 💻 Build scalable full-stack applications
-- 🎨 Focused on clean UI/UX and performance
-- 🤖 Interested in AI integrations
-- 🌱 Always learning modern tools
-- 🤝 Open to internships, freelance, collaboration
+---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
+
+- 💻 Passionate **Full-Stack Developer** building scalable and modern web applications  
+- 🌐 Skilled in **React**, **Vue**, **Next.js**, **Node.js**, **MongoDB**, **Tailwind CSS**, and **TypeScript**  
+- 🧩 Focused on **clean architecture**, **great UI/UX**, and maintainable code  
+- 🤖 Exploring **AI integrations** and smart digital solutions  
+- 🚀 Always learning, improving, and shipping impactful products  
+- ✨ Open to **freelance work**, **internships**, and meaningful **collaboration**  
+
+---
+
+## 🛠️ Languages & Tools
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,tailwind,docker,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,nodejs,express,mongodb,postgres,mysql,tailwind,redux,docker,git,postman,figma&perline=8" />
 </p>
 
-## 📈 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=temkin236&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=temkin236&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
 
-## 🌐 Connect With Me
+---
+
+## 🏆 Achievements
+
 <p align="center">
-<a href="https://www.linkedin.com/in/temkin-abdulmelik-195582306/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://t.me/temkin23"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48" /></a>
+  <img src="https://github-profile-trophy.vercel.app/?username=temkin236&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
-<p align="center">⭐ Turning ideas into impactful digital products.</p>
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/temkin-abdulmelik-195582306/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/temkin23" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="45" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=temkin236&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">💡 <i>Turning ideas into powerful digital experiences through code.</i></p>
 ```
