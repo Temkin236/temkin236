@@ -32,7 +32,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 GitHub Analytics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app?user=temkin236&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=temkin236&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&ring=FF6B00&fire=FF8C00&currStreakLabel=FFB000&sideLabels=FF8C00&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=temkin236&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=temkin236&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" />
 </p>
 
 ---
@@ -67,9 +67,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=temkin236&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
 
-<p align="center">💡 <i>Turning ideas into powerful digital experiences through code.</i></p>
+
+
 ```
