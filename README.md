@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=temkin236&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app?user=temkin236&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -57,11 +57,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/temkin-abdulmelik-195582306/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/temkin23" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="45" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="32" />
   </a>
 </p>
 
