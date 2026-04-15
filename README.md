@@ -43,15 +43,6 @@
   <img src="https://streak-stats.vercel.app?user=temkin236&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&ring=FF6B00&fire=FF8C00&currStreakLabel=FFB000&sideLabels=FF8C00&dates=FFFFFF" alt="GitHub Streak" />
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=temkin236&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=4" />
-</p>
-
----
 
 ## 📬 Connect With Me
 
