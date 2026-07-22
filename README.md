@@ -34,10 +34,6 @@
 
 ## 🔥 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=temkin236&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temkin236&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.vercel.app?user=temkin236&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B,%20Y%5D&ring=FF6B00&fire=FF8C00&currStreakLabel=FFB000&sideLabels=FF8C00&dates=FFFFFF" alt="GitHub Streak" />
