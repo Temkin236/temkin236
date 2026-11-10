@@ -32,6 +32,20 @@
 
 ---
 
+---
+
+## 🚀 Featured Engineering Project
+
+### [Canary SRS — Contamination Audit for Human-Written Datasets](https://github.com/Temkin236/canary-srs)
+> *"Evidence, Not Verdict."* — A privacy-first dataset contamination investigation platform built with **React**, **TypeScript**, **FastAPI**, and **Python**.
+
+- **Multi-Modal Detection**: Surfaces hidden zero-width canary markers, TF-IDF peer similarity distributions, MinHash cross-worker duplicate clusters, and typing velocity plausibility.
+- **Enterprise Reviewer Workspaces**: Dedicated Reviewer Dashboard and interactive Evidence Adjudication Workspace with side-by-side comparison and audit history.
+- **Privacy & Security Invariants**: One-way SHA-256 token hashing, formula-safe CSV exports, 7-day ephemeral retention with cascading purge, and zero external AI egress without explicit opt-in.
+- **Verified Quality**: **83 passing automated tests** (63 backend pytest tests, 20 frontend vitest tests) and measured empirical accuracy (Wilson 95% CI).
+
+---
+
 ## 🔥 GitHub Analytics
 
 
