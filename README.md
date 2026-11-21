@@ -114,7 +114,7 @@ Interested in designing intelligent applications, orchestrating AI-powered workf
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Temkin236&layout=compact&hide_border=true&bg_color=F5EFE6&title_color=604331&text_color=604331" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Temkin236&hide_border=true&background=F5EFE6&ring=A77B55&fire=604331&currStreakLabel=604331&sideLabels=604331&currStreakNum=302019&sideNums=302019&dates=79563C" />
+<img width="70%" src="https://streak-stats.demolab.com?user=Temkin236&hide_border=true&background=F5EFE6&ring=A77B55&fire=604331&currStreakLabel=604331&sideLabels=604331&currStreakNum=302019&sideNums=302019&dates=79563C&timezone=Africa/Addis_Ababa" />
 
 </div>
 
